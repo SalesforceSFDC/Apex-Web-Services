@@ -52,5 +52,8 @@ Trying 136.147.42.44...
 * Connection #0 to host login.salesforce.com left intact
 ```
 ```curl
-curl https://yourInstance.salesforce.com/services/apexrest/Cases/<Record_ID> -H 'Authorization: Bearer <your_session_id>' -H 'X-PrettyPrint:1'
+curl https://yourInstance.salesforce.com/services/apexrest/Cases/<Record_ID> -H 
+'Authorization: Bearer <your_session_id>' -H 'X-PrettyPrint:1'
 ```
+curl https://yourInstance.salesforce.com/services/apexrest/Cases/<Record_ID> -H 
+'Authorization: Bearer <your_session_id>' -H 'X-PrettyPrint:1'
