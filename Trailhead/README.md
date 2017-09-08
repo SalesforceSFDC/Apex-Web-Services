@@ -55,5 +55,5 @@ Trying 136.147.42.44...
 curl https://yourInstance.salesforce.com/services/apexrest/Cases/<Record_ID> -H 
 'Authorization: Bearer <your_session_id>' -H 'X-PrettyPrint:1'
 ```
-curl https://yourInstance.salesforce.com/services/apexrest/Cases/<Record_ID> -H 
-'Authorization: Bearer <your_session_id>' -H 'X-PrettyPrint:1'
+curl https://na35.salesforce.com/services/apexrest/Cases/005410000021HaPAAU -H 'Authorization: Bearer 00D41000002m9QU!AQEAQKYewCxQ.EiCsCJGYhCxodw652x4FE4NaIOgbRIvmhORGTx0Ih2ohOLAWtLRS9pV474rxSPYWqcai6jOTrAc6LC90l8h' -H 'X-PrettyPrint:1'
+
