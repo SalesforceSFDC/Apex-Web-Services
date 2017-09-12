@@ -1,5 +1,2 @@
 # Apex Web Services
 
-##
-
-##
